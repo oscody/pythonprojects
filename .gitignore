@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+
+clockApp/clockApp
+ClockApp/test.md
